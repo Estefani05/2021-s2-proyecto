@@ -1,0 +1,6 @@
+1,Cual es el oceano mas grande del mundo?, a)Oceano Atlantico, b)Oceano Indico, c) Oceano Antartico, d) Oceano Pacifico
+2,Que enfermedad tenia el legendario astrofisico Stephen Hawking?, a) Enfermedad de Addison, d) Progeria de Hutchinson-Gilford, c)Sindrome de down, d)Esclerosis Lateral Amiotrofica
+3,El origen del cafe proviene de..., a) Indonesia, b) Francia, c) Egipto, d) Etiopia
+4,En que idioma origina fue producida la famosa pelicula El Viaje de Chihiro?,a)Coreano,b)Chino,c)Samoano,d)Japones
+
+
